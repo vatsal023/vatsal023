@@ -4,12 +4,13 @@
 
 I am a Final Year Computer Science student at USICT, passionate about building scalable web applications and solving complex algorithmic problems. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsalgarg23/) 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vatsalgarg23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalgarg23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vatsal2304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vatsal2304" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vatsalgarg504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vatsalgarg504" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
