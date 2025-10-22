@@ -1,6 +1,8 @@
-## Hi there 👋
 # Hi there 👋 I'm Vatsal Garg
 
+## About Me
+
+I am a Final Year Computer Science student at USICT, passionate about building scalable web applications and solving complex algorithmic problems. 
 <!--
 **vatsal023/vatsal023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
