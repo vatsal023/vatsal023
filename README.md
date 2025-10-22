@@ -4,8 +4,7 @@
 
 I am a Final Year Computer Science student at USICT, passionate about building scalable web applications and solving complex algorithmic problems. 
 
-
-[![LinkedIn](https://www.linkedin.com/in/vatsalgarg23/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsalgarg23/) 
 
 <!--
 
