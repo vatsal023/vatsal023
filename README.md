@@ -13,7 +13,7 @@ I am a Final Year Computer Science student at USICT, passionate about building s
 <a href="https://linkedin.com/in/vatsalgarg23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalgarg23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vatsal2304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vatsal2304" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vatsalgarg504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vatsalgarg504" height="30" width="40" /></a>
-   <a href="mailto:vatsalgarg504@gmail.com" target="blank">
+   <a href="vatsalgarg504@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yourname@gmail.com" height="30" width="40" />
   </a>
 </p>
