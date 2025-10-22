@@ -2,8 +2,7 @@
 
 ## About Me
 
-I am a Final Year Computer Science student at USICT, passionate about building scalable web applications and solving complex algorithmic problems. 
-
+I’m a Final Year Computer Science student at USICT who loves building scalable web apps and tackling complex coding problems. With hands-on experience in Full-Stack Development (MERN) and problem-solving, I enjoy turning ideas into real-world solutions and exploring new technologies along the way.
 
 
 - 📫 How to reach me **vatsalgarg504@gmail.com**
