@@ -3,7 +3,12 @@
 ## About Me
 
 I am a Final Year Computer Science student at USICT, passionate about building scalable web applications and solving complex algorithmic problems. 
+
+
+[![LinkedIn](https://www.linkedin.com/in/vatsalgarg23/)  
+
 <!--
+
 **vatsal023/vatsal023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
